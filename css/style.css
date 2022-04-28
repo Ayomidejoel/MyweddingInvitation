@@ -1,0 +1,146 @@
+/* .container {
+    border: 1px solid black;
+    background-color: blue;
+}
+.container-fluid {
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+}
+.one {
+    background-color: brown;
+}
+.two{
+    background-color: chartreuse;
+} */
+.wedd1 img {
+    width:50px;
+    border-radius: 80px;
+    margin-left: 10px;
+}
+.wedd1 li {
+    margin:10px;
+    margin-left: 20px;
+}
+.wedd2 {
+    margin-top: 55px;
+}
+.wedd3 {
+    background-color: pink;
+}
+.wedd3 h2 {
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.omolade {
+    margin-top: 50px;
+}
+.omolade img {
+    width: 100%;
+    height: 500px;
+    border-radius: 60px;
+}
+.omolade button {
+    margin-left: 500px;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.omolade button:hover {
+    background-color:black;
+    color: black;
+}
+.omolade button a {
+    color: white;
+    text-decoration: none;
+}
+.wedd4 img {
+    width: 100%;
+    height: 300px;
+}
+.wedd4 .invite {
+    margin-top: 50px;
+    text-align: center;
+}
+.wedd5 {
+    background-color: pink;
+}
+.wedd5 h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.thewedd img {
+    margin-top: 80px;
+    width: 100%;
+    height: 800px;
+    border-radius: 60px;
+}
+.thewedd2 {
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.thewedd2 h1, p {
+    text-align: center;
+}
+.wedd6 {
+    background-color: rgb(253, 221, 226);
+}
+.wedd6 .hmm {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.wedd6 .hmm h3 {
+    font-size: 60px;
+    
+}
+.wedd6 .hmm .rsvp a {
+   text-decoration: none;
+   color: white;
+}
+.wedd6 .hmm .rsvp button:hover {
+    background-color:black;
+    color: black;
+}
+.footer {
+    background-color: black;
+    color: white;
+}
+
+@media (max-width:858px) {
+    .captionhere h1 {
+        font-size:25px;
+
+    }
+    .captionhere p {
+        font-size: 5px;
+    }
+    .carousel-item img {
+        width: 100%;
+        height: 230px;
+    }  
+    .omolade img {
+        width: 100%;
+        height: 200px;
+    } 
+    .thewedd img {
+        margin-top: 50px;
+        width: 100%;
+        height: 300px;
+        border-radius: 50px;
+    }
+    .omolade button {
+        margin-left: 100px;
+        margin-top: 60px;
+        margin-bottom: 80px;
+    }
+    .omolade p {
+        font-size: 10px;
+    }
+    .mar h4 {
+        font-size: 13px;
+    }
+    
+}
